@@ -3,4 +3,4 @@ This is my first Git Repository.
 <br>
 My name Ashish kumar
 <br>
-name ashish rxaul
+name ashish
